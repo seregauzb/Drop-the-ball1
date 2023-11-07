@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes 1/bosh menu.unity
+    guid: 5801cb07d223e394d9436317df49243b
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 53ca864fd96e17a4cb4a8d1dd203b5ca
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: 9cbb4be28a5dd2c4ebf8c80de3f61dfd
+  - enabled: 1
+    path: Assets/Scenes/level4.unity
+    guid: 3841156eafe0ddd4f9e9c6de7ef04b47
+  - enabled: 1
+    path: Assets/Scenes/level6.unity
+    guid: 8cb944104ee04464583fc7ad57d8b4d8
+  - enabled: 1
+    path: Assets/Scenes/level5.unity
+    guid: c63f39fe7b21fb34eba8d2719d252727
+  m_configObjects: {}

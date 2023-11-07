@@ -1,0 +1,58 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8abb742fca98efa45b8bfcbb9015454e
+# Starting compiling UnityEngine.UI.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1a56873a8c71b8c469e562b255c8de80
+# Starting compiling UnityEngine.Purchasing.WinRTCore.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7bee6772150cfb242849a84199189375
+# Starting compiling Unity.Timeline.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-777e191885081e743a40c2d192129958
+# Starting compiling Unity.TextMeshPro.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a25f35bb5cc73e14095c6f5985486939
+# Starting compiling Unity.Services.Core.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2e92884f450617441b57e676b28801c2
+# Starting compiling UnityEngine.Purchasing.SecurityCore.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b9f2056262ee6c44fa70ff5305e9f73c
+# Starting compiling Unity.Postprocessing.Runtime.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e7ed83d2578323e4481fd9b43024558a
+# Starting compiling UnityEngine.Purchasing.WinRTStub.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-daa2cc35536c3c644ab31eed9e16f888
+# Starting compiling Unity.Services.Core.Internal.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1c344fc9116949848822389cb3abce43
+# Starting compiling Unity.Services.Core.Analytics.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-07352c3e61fbfe0489fe4f77300de484
+# Starting compiling Purchasing.Common.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0a92ad6a1b00e50419c13bfa193f9c58
+# Starting compiling Unity.Services.Core.Telemetry.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-325a9cdfc979cf945b2d2cb7e5e5fbc7
+# Starting compiling Unity.Services.Core.Networking.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-485897115180d65479b9f334b6bf583c
+# Starting compiling Unity.Services.Core.Configuration.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-38263b3313be60c4ca09c53543e2d6cb
+# Starting compiling Unity.Services.Core.Environments.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8dde4a86f81b4e94e82221214043e2a4
+# Starting compiling Unity.Services.Core.Scheduler.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6a395be4e86f25e41b80228eae89ebb7
+# Starting compiling Unity.Services.Core.Environments.Internal.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b5c66b248047cf34d892d364af0fde83
+# Starting compiling Unity.Services.Core.Threading.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ff71327f8d6c9234d9f3d3b20866147d
+# Starting compiling UnityEngine.Purchasing.Security.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0caed6aca113bac42822d5a9732f482e
+# Starting compiling UnityEngine.Purchasing.AppleCore.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7767d0fbbf3c7094b9965939c750c8e3
+# Starting compiling UnityEngine.Purchasing.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-12bc560e338b11349bef6bd93f03fc48
+# Starting compiling Unity.Services.Core.Device.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b311096edf8139742a3c04e05f4300a1
+# Starting compiling UnityEngine.Purchasing.AppleMacosStub.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-00123ad17b857b149af8539b79391e4b
+# Starting compiling UnityEngine.Purchasing.Apple.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-dd49c941285028b4091a0042ce68ea6e
+# Starting compiling Unity.Services.Core.Registration.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-3f0169f01eba7dc43a8440fe5409b429
+# Starting compiling UnityEngine.Purchasing.Stores.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-33d61092733d2a04f9c124ee2eb1500a
+# Starting compiling UnityEngine.Purchasing.Codeless.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-cf5e888826922d149847871fb1e1f2f2
+# Starting compiling Assembly-CSharp.dll
+D:\progs\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d5f7942f76c901548a6fed1e0f4d57fe
