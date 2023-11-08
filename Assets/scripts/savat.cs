@@ -36,6 +36,7 @@ public class savat : MonoBehaviour
             other.transform.position=other.gameObject.GetComponent<shar>().bosh;
             other.gameObject.GetComponent<shar>().tiktek();
             other.gameObject.GetComponent<shar>().otildi=true;
+            other.gameObject.GetComponent<shar>().tashlandi=false;
             }
         }
     }

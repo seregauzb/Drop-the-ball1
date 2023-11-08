@@ -11,10 +11,10 @@ public class Purchaser : MonoBehaviour
     {
         switch(product.definition.id)
         {
-            case "com.serbull.iaptutorial.500coins":
+            case "50_coins":
                 Add50000Coins();
                 break;
-            case "com.serbull.iaptutorial.200coins":
+            case "100_coins":
                 Add200000Coins();
                 break;
 
@@ -29,7 +29,7 @@ public class Purchaser : MonoBehaviour
     }
     private void Add200000Coins()
     {
-        knop.pul += 200000;
+        knop.pul += 100000;
         knop.pulkodlash();
         buyingf();
     }

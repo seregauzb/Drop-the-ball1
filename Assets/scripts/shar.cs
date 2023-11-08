@@ -9,7 +9,7 @@ using UnityEngine.UI;
 public class shar : MonoBehaviour
 {
     public Vector3 bosh;
-    public bool tur=true,otildi=false,autoplay=false;
+    public bool tur=true,otildi=false,autoplay=false,tashlandi=false;
     public int pul,tikilganpul;
     public float foizi=1,oytime=0,ortime=0,sanoq=0;
     public TMP_Text tikpultext,foiztext,pultext;
@@ -75,7 +75,7 @@ public class shar : MonoBehaviour
         autoplay=true;
     }
     public void tashla(){
-        if(tikilganpul>=100){
+        if(tikilganpul>=100&&tashlandi==false){
         int a=Random.Range(0,2);
         if(a==0){
             a=-1;
@@ -104,6 +104,7 @@ public class shar : MonoBehaviour
         }
     }
     public void pulol(){
+        if(tashlandi==false){
         pul-=tikilganpul;
         pultext.text=pul.ToString();
         if(tikilganpul>=15000){
@@ -111,6 +112,8 @@ public class shar : MonoBehaviour
         }
         if(pul==0){
             File.WriteAllText(Application.persistentDataPath + "/yulduz.txt","O'zbekiston");
+        }
+        tashlandi=true;
         }
     }
     public void tiktek(){
